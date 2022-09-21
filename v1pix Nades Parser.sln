@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v1pix Nades Parser", "v1pix Nades Parser\v1pix Nades Parser.csproj", "{C9460ED8-8BB9-4CD5-B7C6-358F404569B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9460ED8-8BB9-4CD5-B7C6-358F404569B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9460ED8-8BB9-4CD5-B7C6-358F404569B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9460ED8-8BB9-4CD5-B7C6-358F404569B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9460ED8-8BB9-4CD5-B7C6-358F404569B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E37877-E9A5-410F-AB14-E801A1C9E50E}
+	EndGlobalSection
+EndGlobal
